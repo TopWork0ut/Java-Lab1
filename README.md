@@ -1,6 +1,6 @@
-## Java-First-Lab-IOT
+## Java-Labs
 
-### Task condition: 
+### Task condition (First Lab) - as an example: 
 
 Create a class "Artificial Christmas tree" which contains fields:
 - name of the manufacturer
