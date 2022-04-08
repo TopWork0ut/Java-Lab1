@@ -1,4 +1,4 @@
-## Java-Labs
+## Java-Lab1
 
 ### Task condition (First Lab) - as an example: 
 
